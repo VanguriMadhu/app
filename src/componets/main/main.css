@@ -1,0 +1,30 @@
+.banner img{
+	max-width: 100%;
+}
+.content p span{
+	color: #003c69;
+	font-weight: bold;
+}
+.content p{
+	line-height: 2;
+}
+main{
+	padding: 40px 0 60px 0;
+}
+main div{
+	float: left;
+	width: 30%;
+	border: 2px solid #d47b22;
+	margin-right: 40px;
+	padding: 15px;
+}
+main div:last-child{
+	margin-right: 0;
+}
+main div img{
+	padding: 20px 0;
+}
+
+.make-center{
+    text-align: center;
+}
